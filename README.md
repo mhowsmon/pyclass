@@ -1,2 +1,8 @@
-TEST README for Python Class
-THIS is a local change
+# pyneta
+Test PyNet Repository
+
+Some additional information on this repository.
+
+Create a merge conflict.
+
+More changes to readme.
