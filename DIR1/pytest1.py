@@ -2,8 +2,4 @@
 
 from __future__ import print_function, unicode_literals
 
-print("This is test file 1")
-
-for x in range(10):
-    print(x)
-
+print("This is test file 1 under DIR1")
