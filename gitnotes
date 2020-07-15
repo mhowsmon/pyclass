@@ -1,0 +1,19 @@
+GIT Summary
+********************
+git status << gives you branch info, new or untracked files
+mkdir - new git folder
+git init <<< should see .git folder new project
+git add *.py << adds new files to be tracked with git
+git commit -m "Added test file" <<< commits
+git rm -r python_test/ <<< delete some test file
+git clone https://github.com/mhowsmon/pyneta <<< clone a project from git hub locally
+git push origin master << push local files back out to git hub
+git pull origin master << pull files back down from git hub
+git stash << revert back to branch but saves your work somewhere??
+gif diff <<< tells you changes of file
+git checkout -- ./test2.py << reverts you back to what file was
+git checkout devel << switches you back to devel branch
+git log << status of pushes pulls etc
+git rebase master << sync branch you are on with master
+git merge devel << merges devel into master
+git remote -v << gives
